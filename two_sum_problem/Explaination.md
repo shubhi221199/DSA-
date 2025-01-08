@@ -53,8 +53,7 @@ nums = [2, 7, 11, 15], target = 9
 - **Inner Loop**: Runs `n - 1` times, `n - 2` times, ..., down to `1`.
 - **Total**: The time complexity is \(O(n^2)\), where \(n\) is the length of the `nums` array.
 
-### Space Complexity
+###  Space Complexity
 - The algorithm uses an array `ans` of size 2 to store the result.
 - **Space Complexity**: \(O(1)\) (constant space).
-
 ---
